@@ -12,7 +12,7 @@
 (function() {
     'use strict';
 
-    const AI_SERVER_URL = 'https://2048.qlxl.de/move?board=';
+    const AI_SERVER_URL = 'https://你的域名反代到2048/move?board=';
     const AUTO_PLAY_INTERVAL = 500;    // AI移动尝试之间的间隔（毫秒）- 非常快
     const AI_DELAY_AFTER_MOVE = 300;   // 执行一次移动后，在再次请求AI之前的额外延迟（毫秒）- 非常短
     const STUCK_TIMEOUT = 3000;       // 如果这么长时间（毫秒）没有活动，则刷新页面
