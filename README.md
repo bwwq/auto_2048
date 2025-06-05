@@ -1,4 +1,4 @@
-# Auto 2048 AI - 2048 自动化玩家 (Linux.do) - 带一键部署脚本
+# Auto 2048 AI - 2048 自动化 (Linux.do) - 带一键部署脚本
 
 ![Version](https://img.shields.io/badge/version-auto--updated-blue)
 ![Language](https://img.shields.io/badge/language-JavaScript%20%7C%20Shell-brightgreen)
@@ -138,4 +138,4 @@ AI 的核心决策基于一个启发式评分函数 (`scoreBoardState`)，该函
 
 用于 [2048.linux.do](https://2048.linux.do/) 的自动 2048 AI 玩家。包含油猴脚本和一键部署 Shell 脚本。
 
-祝您游戏愉快！
+游戏愉快~
